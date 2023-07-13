@@ -1,8 +1,8 @@
 import requests
 import smtplib
 
-my_email = "patpat.coding@gmail.com"
-password = "witkgeotqwjmcwmp"
+my_email = "EMAIL@EXAMPLE"
+password = "PASSWORD_EXAMPLE"
 
 parameters = {
     "lat": 57.708870,
